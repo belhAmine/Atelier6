@@ -13,13 +13,18 @@ class ListProduits extends StatelessWidget {
       prix: 1200.0,
     ),
     Produit(
-      nom: "Smartphone",
+      nom: "Casque son JBL",
       description: "Téléphone nouvelle génération avec triple caméra.",
-      prix: 900.0,
+      prix: 375.0,
     ),
     Produit(
-      nom: "Casque Bluetooth",
+      nom: "Chaise de bureau Arhaus",
       description: "Casque sans fil avec réduction de bruit.",
+      prix: 780.0,
+    ),
+    Produit(
+      nom: "Souris sans fil Logitech",
+      description: "Souris sans fil Logitech.",
       prix: 150.0,
     ),
   ];
